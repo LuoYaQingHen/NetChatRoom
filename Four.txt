@@ -1,0 +1,4 @@
+common:通用库：所有模块共用的代码（User类，Message类，工具函数）
+server：服务端模块：ChatServer，UserManager等服务端专属逻辑
+client：客户端模块：ChatClient等客户端专属逻辑
+test：测试模块：单元测试，功能测试
