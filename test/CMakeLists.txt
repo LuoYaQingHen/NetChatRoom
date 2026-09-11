@@ -1,1 +1,3 @@
-//测试程序的编译配置
+if(BUILD_TESTING)
+	message(STATUS "Test sources are placeholders; no test targets configured")
+endif()
